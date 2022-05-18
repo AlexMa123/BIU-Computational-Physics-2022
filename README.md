@@ -6,3 +6,5 @@ Lecture 1: Power Law
 Lecture 2: Fractal
 
 Lecture 3: Percolation
+
+Lecture 4: Network
